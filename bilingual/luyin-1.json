@@ -1,0 +1,26 @@
+{
+ "id": "luyin-1",
+ "label": "录音 1",
+ "transcript": "录音 1.txt",
+ "mp3": "audio/L3_luyin_1.mp3",
+ "note": "Cultural diffusion（Kon-Tiki 意象）",
+ "lectures": [
+  "L3"
+ ],
+ "chunks": [
+  {
+   "i": 1,
+   "start": 67.3,
+   "end": 111.3,
+   "en": "So, he looked at the world, and he says he noticed something very unique. of Peru, or in Mexico. And so the question is, why do they look alike? And so he argued, actually",
+   "zh": "所以，他看着这个世界，他说他注意到了一些非常独特的东西。在秘鲁，或者在墨西哥。那么问题是，他们为什么看起来很相似？于是他实际上提出了一个论点"
+  },
+  {
+   "i": 2,
+   "start": 147.0,
+   "end": 172.5,
+   "en": "And, then he put a boat in the water in America. His son is still doing a lot of these things, right? He put a boat in Latin America, and then full of the current, and he sailed back to, he sailed back to Egypt. Right? And so, the idea, what you're trying to show, is that culture, again in one place, the idea of cultural diffusion-diffusion explains, for him, cultures are similar, and in the same time, our way cultures synt",
+   "zh": "然后，他在美国把一艘船放到了水里。他的儿子现在还在做很多这样的事情，对吧？他把一艘船放到拉丁美洲，然后顺着洋流航行，最后他又航行回埃及，对吧？所以，你想展示的想法是，文化再一次在一个地方，文化扩散的概念——扩散解释了，在他看来，文化是相似的，同时，我们文化的方式也..."
+  }
+ ]
+}
